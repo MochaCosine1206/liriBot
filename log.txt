@@ -1,0 +1,111 @@
+bob seger
+---------------------
+Name of Venue: Allen County War Memorial Coliseum
+City: Fort Wayne, United States
+01 15 2019
+--------------------
+Name of Venue: Nationwide Arena
+City: Columbus, United States
+01 19 2019
+--------------------
+Name of Venue: Peoria Civic Center
+City: Peoria, United States
+01 22 2019
+--------------------
+Name of Venue: KeyBank Center
+City: Buffalo, United States
+01 17 2019
+--------------------
+Name of Venue: Fiserv Forum
+City: Milwaukee, United States
+01 24 2019
+--------------------
+Name of Venue: Denny Sanford Premier Center
+City: Sioux Falls, United States
+01 26 2019
+--------------------
+Name of Venue: Rimrock Auto Arena at Metrapark
+City: Billings, United States
+01 29 2019
+--------------------
+Name of Venue: Idaho Center Arena
+City: Nampa, United States
+01 31 2019
+--------------------
+Name of Venue: Save Mart Center
+City: Fresno, United States
+02 12 2019
+--------------------
+Name of Venue: Talking Stick Resort Arena
+City: Phoenix, United States
+02 15 2019
+--------------------
+Name of Venue: Pepsi Center
+City: Denver, United States
+02 17 2019
+--------------------
+Name of Venue: Viejas Arena
+City: San Diego, United States
+02 21 2019
+--------------------
+Name of Venue: The Forum
+City: Los Angeles, United States
+02 23 2019
+--------------------
+Name of Venue: Golden 1 Center
+City: Sacramento, United States
+02 28 2019
+--------------------
+Name of Venue: MGM Grand Garden Arena
+City: Las Vegas, United States
+03 02 2019
+--------------------
+Name of Venue: Tingley Coliseum
+City: Albuquerque, United States
+03 05 2019
+--------------------
+Name of Venue: Frank C Erwin Special Events Center
+City: Austin, United States
+03 07 2019
+--------------------
+Name of Venue: Ford Center at The Star
+City: Frisco, United States
+03 09 2019
+--------------------
+Name of Venue: CenturyLink Center
+City: Bossier City, United States
+03 12 2019
+--------------------
+Name of Venue: Amalie Arena
+City: Tampa, United States
+03 15 2019
+--------------------
+Name of Venue: BB&T Center
+City: Sunrise, United States
+03 17 2019
+--------------------
+Name of Venue: The Cynthia Woods Mitchell Pavilion
+City: The Woodlands, United States
+05 02 2019
+--------------------
+Name of Venue: Moda Center
+City: Portland, United States
+02 02 2019
+--------------------
+Name of Venue: Rogers Arena
+City: Vancouver, Canada
+02 07 2019
+--------------------
+Name of Venue: Tacoma Dome
+City: Tacoma, United States
+02 09 2019
+--------------------
+Title: The Matrix
+Year: 1999
+Internet Movie Database 8.7/10
+Rotten Tomatoes 88%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+-----------------------------
