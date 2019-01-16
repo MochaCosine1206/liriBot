@@ -3,7 +3,79 @@ const keys = require("./keys.js");
 const axios = require("axios");
 const fs = require("fs");
 const moment = require("moment");
-// const spotify = new Spotify(keys.spotify);
+const Spotify = require("node-spotify-api");
+const spotify = new Spotify(keys.spotify);
+
+function doWant() {
+    fs.readFile('random.txt', 'utf8', (err, res) => {
+        if (err) {
+            console.log(err);
+        }
+        const wantIt = (res.split(","));
+        const userInput = wantIt[1];
+        spotify.search({ type: 'track', query: userInput }, function(err, data) {
+            if (err) {
+                console.log(err)
+            }
+            console.log(data.tracks.items[0].album.name);
+            const backStreetText = "\nThis is what happens donny\nYou let the program choose, so here goes: " + data.tracks.items[0].album.name + " by " + data.tracks.items[0].album.artists[0].name + "\nListen here and perish: " + data.tracks.items[0].album.href + "\n-----------------------------\n"
+            fs.appendFile("log.txt", backStreetText, "utf8", (err) => {
+                if (err) {
+                    console.log(err);
+                }
+            })
+        });
+    })
+}
+
+function song() {
+    const wholeArgv = process.argv;
+    const argvSlice = wholeArgv.slice(3);
+    console.log(process.argv[3]);
+    let userInput = argvSlice.join(' ');
+    if (process.argv[3] === undefined) {
+        userInput = "Ace of Base";
+        spotify.search({ type: 'track', query: userInput }, function(err, data) {
+            if (err) {
+              return console.log('Error occurred: ' + err);
+            }
+            console.log(data.tracks.items[0].album.name);
+            console.log(data.tracks.items[0].album.artists[0].name);
+            const aceText = "\nYou chose nothing, and you get: " + data.tracks.items[0].album.name + " by " + data.tracks.items[0].album.artists[0].name + "\nListen here without remorse: " + data.tracks.items[0].album.href + "\n-----------------------------\n"
+            fs.appendFile("log.txt", aceText, "utf8", (err) => {
+                if (err) {
+                    console.log(err);
+                }
+            })
+            
+        });
+    } else {
+    spotify.search({ type: 'track', query: userInput }, function(err, data) {
+        if (err) {
+          return console.log('Error occurred: ' + err);
+        }
+       
+    //   console.log(data);
+    //   console.log(data.tracks.items[0]);
+
+    for (let i = 0; i < data.tracks.items.length; i++) {
+        console.log(data.tracks.items[i].album.artists[0].name);
+        console.log(data.tracks.items[i].name);
+        console.log(data.tracks.items[i].album.href);
+        console.log(data.tracks.items[i].album.name);
+        let songText = "Artist: " + data.tracks.items[i].album.artists[0].name + "\nTrack Name: " + data.tracks.items[i].name + "\nSpotify Link" + data.tracks.items[i].album.href + "\nAlbumn Name: " + data.tracks.items[i].album.name + "\n-----------------------------\n"
+        fs.appendFile("log.txt", songText, "utf8", (err) => {
+          if (err) {
+              console.log(err);
+          }
+      })
+      
+    }
+      
+    
+    });
+}
+}
 
 
 function concert() {
@@ -72,11 +144,13 @@ switch (process.argv[2]) {
     break;
     case "spotify-this-song":
         console.log("spotify-this-song");
+        song();
         break;
     case "movie-this":
         movie()
         break;
     case "do-what-it-says":
         console.log("do-what-it-says");
+        doWant();
 
 }

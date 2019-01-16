@@ -1,0 +1,105 @@
+undefinedArtist: The Beatles
+Track Name: Strawberry Fields Forever - Remastered 2009
+Spotify Linkhttps://api.spotify.com/v1/albums/2BtE7qm1qzM80p9vLSiXkj
+Albumn Name: Magical Mystery Tour (Remastered)
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Remastered 2009
+Spotify Linkhttps://api.spotify.com/v1/albums/2BtE7qm1qzM80p9vLSiXkj
+Albumn Name: Magical Mystery Tour (Remastered)
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever
+Spotify Linkhttps://api.spotify.com/v1/albums/1Ye7yrA7vAlQnoooj8yDXb
+Albumn Name: Love
+-----------------------------
+Artist: Rockabye Baby!
+Track Name: Strawberry Fields Forever
+Spotify Linkhttps://api.spotify.com/v1/albums/1QtQv9vBMHBOjplnXFsRQq
+Albumn Name: Lullaby Renditions of the Beatles
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Remastered
+Spotify Linkhttps://api.spotify.com/v1/albums/1cTeNkeINtXiaMLlashAKs
+Albumn Name: The Beatles 1967 - 1970 (Remastered)
+-----------------------------
+Artist: Various Artists
+Track Name: Strawberry Fields Forever - From "Across The Universe" Soundtrack
+Spotify Linkhttps://api.spotify.com/v1/albums/0wk2LEg0xFuuRq35UuLoNz
+Albumn Name: Across The Universe
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Stereo Mix 2015
+Spotify Linkhttps://api.spotify.com/v1/albums/6b7ycwe2rxq6FkaupNuGoS
+Albumn Name: Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)
+-----------------------------
+Artist: Los Fabulosos Cadillacs
+Track Name: Strawberry Fields Forever
+Spotify Linkhttps://api.spotify.com/v1/albums/2V9za0PRp46NAZvSEs3hxU
+Albumn Name: Fabulosos Exitos
+-----------------------------
+Artist: Various Artists
+Track Name: Strawberry Fields Forever
+Spotify Linkhttps://api.spotify.com/v1/albums/0lGu56L3evYBeuS6wNQPnL
+Albumn Name: I Am Sam (Original Soundtrack)
+-----------------------------
+Artist: Various Artists
+Track Name: Strawberry Fields Forever - From "Across The Universe" Soundtrack
+Spotify Linkhttps://api.spotify.com/v1/albums/7FPMykszXPYE2a74RlLinr
+Albumn Name: Across The Universe
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Anthology 2 Version / Take 1
+Spotify Linkhttps://api.spotify.com/v1/albums/3Lf8VA23cMAl5imbABTZoo
+Albumn Name: Anthology 2
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Take 7
+Spotify Linkhttps://api.spotify.com/v1/albums/6b7ycwe2rxq6FkaupNuGoS
+Albumn Name: Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)
+-----------------------------
+Artist: Karen Souza
+Track Name: Strawberry Fields Forever
+Spotify Linkhttps://api.spotify.com/v1/albums/7oLFzJWMBpnAB7jd5bMOxm
+Albumn Name: Karen Souza Essentials
+-----------------------------
+Artist: La Santa Cecilia
+Track Name: Strawberry Fields Forever
+Spotify Linkhttps://api.spotify.com/v1/albums/4g9or7G1F13JzY1j7La5GE
+Albumn Name: Someday New
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Take 1
+Spotify Linkhttps://api.spotify.com/v1/albums/1ntNLgaYCFCkeW4flGYlY2
+Albumn Name: Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Stereo Mix 2015
+Spotify Linkhttps://api.spotify.com/v1/albums/1ntNLgaYCFCkeW4flGYlY2
+Albumn Name: Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Take 4
+Spotify Linkhttps://api.spotify.com/v1/albums/1ntNLgaYCFCkeW4flGYlY2
+Albumn Name: Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Take 26
+Spotify Linkhttps://api.spotify.com/v1/albums/6b7ycwe2rxq6FkaupNuGoS
+Albumn Name: Sgt. Pepper's Lonely Hearts Club Band (Deluxe Edition)
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Take 7
+Spotify Linkhttps://api.spotify.com/v1/albums/1ntNLgaYCFCkeW4flGYlY2
+Albumn Name: Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)
+-----------------------------
+Artist: The Beatles
+Track Name: Strawberry Fields Forever - Take 26
+Spotify Linkhttps://api.spotify.com/v1/albums/1ntNLgaYCFCkeW4flGYlY2
+Albumn Name: Sgt. Pepper's Lonely Hearts Club Band (Super Deluxe Edition)
+-----------------------------
+Artist: Richie Havens
+Track Name: Strawberry Fields Forever
+Spotify Linkhttps://api.spotify.com/v1/albums/0uJJCoTJdZYsx7mYMIIU2F
+Albumn Name: Paris Live 1969
+-----------------------------
