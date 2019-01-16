@@ -17,8 +17,8 @@ function doWant() {
             if (err) {
                 console.log(err)
             }
-            console.log(data.tracks.items[0].album.name);
             const backStreetText = "\nThis is what happens donny\nYou let the program choose, so here goes: " + data.tracks.items[0].album.name + " by " + data.tracks.items[0].album.artists[0].name + "\nListen here and perish: " + data.tracks.items[0].album.href + "\n-----------------------------\n"
+            console.log(backStreetText);
             fs.appendFile("log.txt", backStreetText, "utf8", (err) => {
                 if (err) {
                     console.log(err);
@@ -31,7 +31,6 @@ function doWant() {
 function song() {
     const wholeArgv = process.argv;
     const argvSlice = wholeArgv.slice(3);
-    console.log(process.argv[3]);
     let userInput = argvSlice.join(' ');
     if (process.argv[3] === undefined) {
         userInput = "Ace of Base";
@@ -39,9 +38,8 @@ function song() {
             if (err) {
               return console.log('Error occurred: ' + err);
             }
-            console.log(data.tracks.items[0].album.name);
-            console.log(data.tracks.items[0].album.artists[0].name);
             const aceText = "\nYou chose nothing, and you get: " + data.tracks.items[0].album.name + " by " + data.tracks.items[0].album.artists[0].name + "\nListen here without remorse: " + data.tracks.items[0].album.href + "\n-----------------------------\n"
+            console.log(aceText);
             fs.appendFile("log.txt", aceText, "utf8", (err) => {
                 if (err) {
                     console.log(err);
@@ -55,15 +53,10 @@ function song() {
           return console.log('Error occurred: ' + err);
         }
        
-    //   console.log(data);
-    //   console.log(data.tracks.items[0]);
 
     for (let i = 0; i < data.tracks.items.length; i++) {
-        console.log(data.tracks.items[i].album.artists[0].name);
-        console.log(data.tracks.items[i].name);
-        console.log(data.tracks.items[i].album.href);
-        console.log(data.tracks.items[i].album.name);
         let songText = "Artist: " + data.tracks.items[i].album.artists[0].name + "\nTrack Name: " + data.tracks.items[i].name + "\nSpotify Link" + data.tracks.items[i].album.href + "\nAlbumn Name: " + data.tracks.items[i].album.name + "\n-----------------------------\n"
+        console.log(songText);
         fs.appendFile("log.txt", songText, "utf8", (err) => {
           if (err) {
               console.log(err);
@@ -91,7 +84,6 @@ function concert() {
     axios
         .get(url)
         .then(function (response) {
-            console.log(response.data[0]);
             for (let i = 0; i < response.data.length; i++){
             console.log("Name of Venue: " + response.data[i].venue.name);
             console.log("City: " + response.data[i].venue.city + ", " + response.data[i].venue.country);
@@ -113,9 +105,7 @@ function movie() {
     const wholeArgv = process.argv
     const argvSlice = wholeArgv.slice(3)
     const userInput = argvSlice.join('+');
-    console.log(userInput);
     const url = "http://www.omdbapi.com/?t=" + userInput + "&apikey=74d49d27"
-    console.log(url);
     axios
         .get(url)
         .then(function (response) {

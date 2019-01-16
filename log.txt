@@ -235,3 +235,22 @@ Name of Venue: The Cynthia Woods Mitchell Pavilion
 City: The Woodlands, United States
 05 02 2019
 --------------------
+
+You chose nothing, and you get: The Sign (US Album) [Remastered] by Ace of Base
+Listen here without remorse: https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB
+-----------------------------
+Artist: Flo White
+Track Name: The Isrealites
+Spotify Linkhttps://api.spotify.com/v1/albums/4sPsNTMUUMfFRyBkHr8fxe
+Albumn Name: Pearlesent
+-----------------------------
+Artist: Dee Downey Pruett
+Track Name: The Isrealites Leave Egypt
+Spotify Linkhttps://api.spotify.com/v1/albums/36PLZGDIXlJ9YCKnUJAmxr
+Albumn Name: Singing Bible Drill, Cycle 1, KJV & NIV
+-----------------------------
+Artist: The Hit Crew
+Track Name: Isrealites
+Spotify Linkhttps://api.spotify.com/v1/albums/3pmVZB6KLlQfK4QlB2ZsbZ
+Albumn Name: The Definition Of Music "Reggae"
+-----------------------------
