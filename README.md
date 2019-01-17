@@ -5,8 +5,11 @@ The object of this project is to provide information when users ask certain ques
 
 For example:
  - movie-this The Matrix, should return information about the movie, "The Matrix".
+ 
  - concert this "Artist" will return information about concerts the artist is having.
+ 
  - spotify-this-song strawberry fields will return artist and albumn info for the song "Strawberry Fields".
+ 
    - if users choose not to enter a song, they get a nasty message about "The Sign" by Ace of Base.
    
  -If users enter the command "do-what-it-says" spotify information about "I want it that way" is logged to the console.
