@@ -122,7 +122,6 @@ function movie() {
                 if (err) {
                     console.log(err)
                 }
-                console.log(response);
             })
         })
 }

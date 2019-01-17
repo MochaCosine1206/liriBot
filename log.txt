@@ -1,144 +1,214 @@
-
-You chose nothing, and you get: The Sign (US Album) [Remastered] by Ace of Base
-Listen here without remorse: https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgBArtist: Bruce Springsteen
-Track Name: Pink Cadillac - Single B-Side - 1984
-Spotify Linkhttps://api.spotify.com/v1/albums/13pZUSPWE87x40BorpgLx2
-Albumn Name: Tracks
+Artist: Milky Chance
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/5D20ZzsNB377xbshIFP9Nb
+Albumn Name: Sadnecessary
 -----------------------------
-Artist: Indigo Swing
-Track Name: Pink Cadillac
-Spotify Linkhttps://api.spotify.com/v1/albums/0BHd15407qFmwe0VNGoMQ4
-Albumn Name: Indigo Swing
+Artist: Neil Young
+Track Name: Down By the River
+Spotify Linkhttps://api.spotify.com/v1/albums/70Yl2w1p00whfnC7fj94ox
+Albumn Name: Everybody Knows This Is Nowhere
 -----------------------------
-Artist: Alice Gray
-Track Name: Pink Cadillac
-Spotify Linkhttps://api.spotify.com/v1/albums/3gOKnf9lE99O9JfPmFXiSO
-Albumn Name: Pink Cadillac
+Artist: Cody Johnson
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/6lbbLbk6rMWjKkFAe8ATFx
+Albumn Name: Black and White Label
 -----------------------------
-Artist: Natalie Cole
-Track Name: Pink Cadillac
-Spotify Linkhttps://api.spotify.com/v1/albums/5G6VHEradat2zUbr9cmCtM
-Albumn Name: Everlasting
+Artist: Crosby, Stills, Nash & Young
+Track Name: Medley: The Loner, Cinnamon Girl, Down By The River - Live
+Spotify Linkhttps://api.spotify.com/v1/albums/0T0iwwI0nHiFcF0HDW59UO
+Albumn Name: 4 Way Street
 -----------------------------
-Artist: Jerry Lee Lewis
-Track Name: Pink Cadillac (feat. Bruce Springsteen)
-Spotify Linkhttps://api.spotify.com/v1/albums/6kxDNLUTSsZ8KdrgiNzvDc
-Albumn Name: Last Man Standing
+Artist: Mir Fontane
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/0bslnmOmfQ6KpbDnVRzKmi
+Albumn Name: Down By The River
 -----------------------------
-Artist: Mags Duval
-Track Name: Pink Cadillac
-Spotify Linkhttps://api.spotify.com/v1/albums/4ZnEbHYgAYhq2yyZbyRuH3
-Albumn Name: Pink Cadillac
+Artist: The Meters
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/4HshPZ1oEUBSkHKkyVBn1f
+Albumn Name: Kickback
 -----------------------------
-Artist: Natalie Cole
-Track Name: Pink Cadillac
-Spotify Linkhttps://api.spotify.com/v1/albums/6Iu2z6zfIDOVKVy8v7FBol
-Albumn Name: Greatest Hits Volume 1
+Artist: Buddy Miles
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/6Kr0V00FNt8Xn3Dk3opAVb
+Albumn Name: Them Changes
 -----------------------------
-Artist: John Prine
-Track Name: How Lucky
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: A Perfect Circle
+Track Name: By And Down The River
+Spotify Linkhttps://api.spotify.com/v1/albums/3Jr1RhAyndBxtyi8rJs3Op
+Albumn Name: Eat The Elephant
 -----------------------------
-Artist: John Prine
-Track Name: Killing The Blues
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: Möwe
+Track Name: Down By The River (feat. Emy Perez)
+Spotify Linkhttps://api.spotify.com/v1/albums/1Nl1SBGIkh5xfBRWrJffCg
+Albumn Name: Down By The River (feat. Emy Perez)
 -----------------------------
-Artist: Natalie Cole
-Track Name: Pink Cadillac
-Spotify Linkhttps://api.spotify.com/v1/albums/66W961OOr9k9furtedbgzS
-Albumn Name: Rhino Hi-Five: Natalie Cole
+Artist: The Dirty River Boys
+Track Name: Down by the River
+Spotify Linkhttps://api.spotify.com/v1/albums/4GOCBKcBGGzQSnGW8fwdY5
+Albumn Name: The Dirty River Boys
 -----------------------------
-Artist: John Prine
-Track Name: Automobile
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: Neil Young
+Track Name: Down by the River
+Spotify Linkhttps://api.spotify.com/v1/albums/2hNa7oWGatOqnKw9cmS4ao
+Albumn Name: Greatest Hits
 -----------------------------
-Artist: John Prine
-Track Name: Chinatown
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: D. Vincent Williams
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/62W2BYPniUpg9GJ60jtngd
+Albumn Name: Down By The River
 -----------------------------
-Artist: John Prine
-Track Name: Down By The Side Of The Road
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: Mike Doughty
+Track Name: Down on the River by the Sugar Plant
+Spotify Linkhttps://api.spotify.com/v1/albums/7AZHBNURkipjkKtViAoXcP
+Albumn Name: Skittish / Rockity Roll
 -----------------------------
-Artist: The Greatest Country Dance 1
-Track Name: Pink Cadillac
-Spotify Linkhttps://api.spotify.com/v1/albums/1zNE81jp58OMWyIHNvB5vV
-Albumn Name: The Greatest Country Dance Record Ever Volume One
+Artist: Mild Orange
+Track Name: Down by the River
+Spotify Linkhttps://api.spotify.com/v1/albums/6i6vBaX5dXlwgCPJSShpQu
+Albumn Name: Foreplay
 -----------------------------
-Artist: John Prine
-Track Name: No Name Girl
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: WYO
+Track Name: Down by the River
+Spotify Linkhttps://api.spotify.com/v1/albums/2BRPwghbUVwvQvZD8htEPz
+Albumn Name: Untamed
 -----------------------------
-Artist: John Prine
-Track Name: Saigon
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: Neil Young
+Track Name: Down By the River
+Spotify Linkhttps://api.spotify.com/v1/albums/2mFcOZBh8JmZdwIiOVeTw7
+Albumn Name: Decade
 -----------------------------
-Artist: Southern Pacific
-Track Name: Pink Cadillac
-Spotify Linkhttps://api.spotify.com/v1/albums/7LSuCpdTe6eWy21WUtYOfI
-Albumn Name: Killbilly Hill
+Artist: Dave Matthews
+Track Name: Down by the River - Live at Radio City Music Hall, New York, NY - April 2007
+Spotify Linkhttps://api.spotify.com/v1/albums/1t89f8EDdWRWhHpp6OOmtP
+Albumn Name: Live At Radio City
 -----------------------------
-Artist: John Prine
-Track Name: Cold War (This Cold War With You)
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: Roy Buchanan
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/2DkY3sfaY31LbqD0TW4A6g
+Albumn Name: Sweet Dreams: The Anthology
 -----------------------------
-Artist: John Prine
-Track Name: Baby Let's Play House
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: Morgan Heritage
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/0uODWjtf0qpWma8uZihPs2
+Albumn Name: More Teachings
 -----------------------------
-Artist: John Prine
-Track Name: Ubangi Stomp
-Spotify Linkhttps://api.spotify.com/v1/albums/1VtpywtiSSl0oUJ5vyRkd7
-Albumn Name: Pink Cadillac
+Artist: Mir Fontane
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/3UMIOPvkK1ojebaX2uQ7Kd
+Albumn Name: Camden
 -----------------------------
-
-This is what happens donny
-You let the program choose, so here goes: The Hits--Chapter One by Backstreet Boys
-Listen here and perish: https://api.spotify.com/v1/albums/1NslKOZobWxINFaFkLol3r
+Artist: Milky Chance
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/5D20ZzsNB377xbshIFP9Nb
+Albumn Name: Sadnecessary
 -----------------------------
-Title: The Matrix
-Year: 1999
-Internet Movie Database 8.7/10
-Rotten Tomatoes 88%
+Artist: Neil Young
+Track Name: Down By the River
+Spotify Linkhttps://api.spotify.com/v1/albums/70Yl2w1p00whfnC7fj94ox
+Albumn Name: Everybody Knows This Is Nowhere
+-----------------------------
+Artist: Mir Fontane
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/3UMIOPvkK1ojebaX2uQ7Kd
+Albumn Name: Camden
+-----------------------------
+Artist: Cody Johnson
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/6lbbLbk6rMWjKkFAe8ATFx
+Albumn Name: Black and White Label
+-----------------------------
+Artist: A Perfect Circle
+Track Name: By And Down The River
+Spotify Linkhttps://api.spotify.com/v1/albums/3Jr1RhAyndBxtyi8rJs3Op
+Albumn Name: Eat The Elephant
+-----------------------------
+Artist: The Meters
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/4HshPZ1oEUBSkHKkyVBn1f
+Albumn Name: Kickback
+-----------------------------
+Artist: Crosby, Stills, Nash & Young
+Track Name: Medley: The Loner, Cinnamon Girl, Down By The River - Live
+Spotify Linkhttps://api.spotify.com/v1/albums/0T0iwwI0nHiFcF0HDW59UO
+Albumn Name: 4 Way Street
+-----------------------------
+Artist: Buddy Miles
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/6Kr0V00FNt8Xn3Dk3opAVb
+Albumn Name: Them Changes
+-----------------------------
+Artist: Möwe
+Track Name: Down By The River (feat. Emy Perez)
+Spotify Linkhttps://api.spotify.com/v1/albums/1Nl1SBGIkh5xfBRWrJffCg
+Albumn Name: Down By The River (feat. Emy Perez)
+-----------------------------
+Artist: Morgan Heritage
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/0uODWjtf0qpWma8uZihPs2
+Albumn Name: More Teachings
+-----------------------------
+Artist: The Dirty River Boys
+Track Name: Down by the River
+Spotify Linkhttps://api.spotify.com/v1/albums/4GOCBKcBGGzQSnGW8fwdY5
+Albumn Name: The Dirty River Boys
+-----------------------------
+Artist: Neil Young
+Track Name: Down by the River
+Spotify Linkhttps://api.spotify.com/v1/albums/2hNa7oWGatOqnKw9cmS4ao
+Albumn Name: Greatest Hits
+-----------------------------
+Artist: D. Vincent Williams
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/62W2BYPniUpg9GJ60jtngd
+Albumn Name: Down By The River
+-----------------------------
+Artist: Mike Doughty
+Track Name: Down on the River by the Sugar Plant
+Spotify Linkhttps://api.spotify.com/v1/albums/7AZHBNURkipjkKtViAoXcP
+Albumn Name: Skittish / Rockity Roll
+-----------------------------
+Artist: Mild Orange
+Track Name: Down by the River
+Spotify Linkhttps://api.spotify.com/v1/albums/6i6vBaX5dXlwgCPJSShpQu
+Albumn Name: Foreplay
+-----------------------------
+Artist: WYO
+Track Name: Down by the River
+Spotify Linkhttps://api.spotify.com/v1/albums/2BRPwghbUVwvQvZD8htEPz
+Albumn Name: Untamed
+-----------------------------
+Artist: Neil Young
+Track Name: Down By the River
+Spotify Linkhttps://api.spotify.com/v1/albums/2mFcOZBh8JmZdwIiOVeTw7
+Albumn Name: Decade
+-----------------------------
+Artist: Dave Matthews
+Track Name: Down by the River - Live at Radio City Music Hall, New York, NY - April 2007
+Spotify Linkhttps://api.spotify.com/v1/albums/1t89f8EDdWRWhHpp6OOmtP
+Albumn Name: Live At Radio City
+-----------------------------
+Artist: Roy Buchanan
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/2DkY3sfaY31LbqD0TW4A6g
+Albumn Name: Sweet Dreams: The Anthology
+-----------------------------
+Artist: Mir Fontane
+Track Name: Down By The River
+Spotify Linkhttps://api.spotify.com/v1/albums/0bslnmOmfQ6KpbDnVRzKmi
+Albumn Name: Down By The River
+-----------------------------
+Title: Heat
+Year: 1995
+Internet Movie Database 8.2/10
+Rotten Tomatoes 86%
 Country: USA
-Language: English
-Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
-Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
------------------------------
-Artist: Flo White
-Track Name: The Isrealites
-Spotify Linkhttps://api.spotify.com/v1/albums/4sPsNTMUUMfFRyBkHr8fxe
-Albumn Name: Pearlesent
------------------------------
-Artist: Dee Downey Pruett
-Track Name: The Isrealites Leave Egypt
-Spotify Linkhttps://api.spotify.com/v1/albums/36PLZGDIXlJ9YCKnUJAmxr
-Albumn Name: Singing Bible Drill, Cycle 1, KJV & NIV
------------------------------
-Artist: The Hit Crew
-Track Name: Isrealites
-Spotify Linkhttps://api.spotify.com/v1/albums/3pmVZB6KLlQfK4QlB2ZsbZ
-Albumn Name: The Definition Of Music "Reggae"
------------------------------
-
-You chose nothing, and you get: The Sign (US Album) [Remastered] by Ace of Base
-Listen here without remorse: https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB
+Language: English, Spanish
+Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.
+Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight
 -----------------------------
 bob seger
 ---------------------
-Name of Venue: Allen County War Memorial Coliseum
-City: Fort Wayne, United States
-01 15 2019
---------------------
 Name of Venue: KeyBank Center
 City: Buffalo, United States
 01 17 2019
@@ -163,13 +233,13 @@ Name of Venue: Rimrock Auto Arena at Metrapark
 City: Billings, United States
 01 29 2019
 --------------------
-Name of Venue: Idaho Center Arena
-City: Nampa, United States
-01 31 2019
---------------------
 Name of Venue: Moda Center
 City: Portland, United States
 02 02 2019
+--------------------
+Name of Venue: Idaho Center Arena
+City: Nampa, United States
+01 31 2019
 --------------------
 Name of Venue: Rogers Arena
 City: Vancouver, Canada
@@ -239,18 +309,26 @@ City: The Woodlands, United States
 You chose nothing, and you get: The Sign (US Album) [Remastered] by Ace of Base
 Listen here without remorse: https://api.spotify.com/v1/albums/5UwIyIyFzkM7wKeGtRJPgB
 -----------------------------
-Artist: Flo White
-Track Name: The Isrealites
-Spotify Linkhttps://api.spotify.com/v1/albums/4sPsNTMUUMfFRyBkHr8fxe
-Albumn Name: Pearlesent
+
+This is what happens donny
+You let the program choose, so here goes: The Hits--Chapter One by Backstreet Boys
+Listen here and perish: https://api.spotify.com/v1/albums/1NslKOZobWxINFaFkLol3r
 -----------------------------
-Artist: Dee Downey Pruett
-Track Name: The Isrealites Leave Egypt
-Spotify Linkhttps://api.spotify.com/v1/albums/36PLZGDIXlJ9YCKnUJAmxr
-Albumn Name: Singing Bible Drill, Cycle 1, KJV & NIV
+Title: Heat
+Year: 1995
+Internet Movie Database 8.2/10
+Rotten Tomatoes 86%
+Country: USA
+Language: English, Spanish
+Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.
+Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight
 -----------------------------
-Artist: The Hit Crew
-Track Name: Isrealites
-Spotify Linkhttps://api.spotify.com/v1/albums/3pmVZB6KLlQfK4QlB2ZsbZ
-Albumn Name: The Definition Of Music "Reggae"
+Title: Heat
+Year: 1995
+Internet Movie Database 8.2/10
+Rotten Tomatoes 86%
+Country: USA
+Language: English, Spanish
+Plot: A group of professional bank robbers start to feel the heat from police when they unknowingly leave a clue at their latest heist.
+Actors: Al Pacino, Robert De Niro, Val Kilmer, Jon Voight
 -----------------------------
